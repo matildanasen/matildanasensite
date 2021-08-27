@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/matildanasensite/static/css/main.24eef60a.chunk.css",
+    "main.js": "/matildanasensite/static/js/main.3bb21a29.chunk.js",
+    "main.js.map": "/matildanasensite/static/js/main.3bb21a29.chunk.js.map",
+    "runtime-main.js": "/matildanasensite/static/js/runtime-main.3afc3685.js",
+    "runtime-main.js.map": "/matildanasensite/static/js/runtime-main.3afc3685.js.map",
+    "static/css/2.817bf193.chunk.css": "/matildanasensite/static/css/2.817bf193.chunk.css",
+    "static/js/2.53b4a014.chunk.js": "/matildanasensite/static/js/2.53b4a014.chunk.js",
+    "static/js/2.53b4a014.chunk.js.map": "/matildanasensite/static/js/2.53b4a014.chunk.js.map",
+    "static/js/3.c357b1a8.chunk.js": "/matildanasensite/static/js/3.c357b1a8.chunk.js",
+    "static/js/3.c357b1a8.chunk.js.map": "/matildanasensite/static/js/3.c357b1a8.chunk.js.map",
+    "index.html": "/matildanasensite/index.html",
+    "static/css/2.817bf193.chunk.css.map": "/matildanasensite/static/css/2.817bf193.chunk.css.map",
+    "static/css/main.24eef60a.chunk.css.map": "/matildanasensite/static/css/main.24eef60a.chunk.css.map",
+    "static/js/2.53b4a014.chunk.js.LICENSE.txt": "/matildanasensite/static/js/2.53b4a014.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/matildanasensite/static/media/libre-baskerville-latin-700.9f779ce8.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3afc3685.js",
+    "static/css/2.817bf193.chunk.css",
+    "static/js/2.53b4a014.chunk.js",
+    "static/css/main.24eef60a.chunk.css",
+    "static/js/main.3bb21a29.chunk.js"
+  ]
+}
